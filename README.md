@@ -68,20 +68,14 @@
 
 ### 📌 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/engfelipelacerda/nvim-tmux-config">
-        <img height="165" width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=engfelipelacerda&repo=nvim-tmux-config&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/engfelipelacerda/moon-conquerors">
-        <img height="165" width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=engfelipelacerda&repo=moon-conquerors&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/engfelipelacerda/nvim-tmux-config">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=engfelipelacerda&repo=nvim-tmux-config&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/engfelipelacerda/moon-conquerors">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=engfelipelacerda&repo=moon-conquerors&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
