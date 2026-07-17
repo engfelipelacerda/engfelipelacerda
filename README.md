@@ -64,10 +64,6 @@
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=engfelipelacerda&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=engfelipelacerda&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 📌 Featured Projects
